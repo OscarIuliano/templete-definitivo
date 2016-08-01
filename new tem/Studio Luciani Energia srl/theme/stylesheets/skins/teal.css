@@ -1,0 +1,33 @@
+.colorme {color:#0B4C0C;}
+.nav-bar > li:hover, .nav-bar > li a:hover  { color: #749f93;}
+.nav-bar > li.active > a { }
+ul.flyout li a:hover, .nav-bar li ul li a:hover {color:#749f93;}
+.flyout {border-top:2px solid #0B4C0C;}
+.sectiontitle {border-left: 4px solid #0B4C0C;}
+::-moz-selection{background:#0B4C0C;color:#fff;}
+::selection{background:#0B4C0C;color:#fff;}
+.ca-menu li:hover .ca-main {color: #0B4C0C;}
+.topborder { border-top:4px solid #0B4C0C;}
+.readmore {background:#0B4C0C;}
+ #subheader {background: #0B4C0C;border-top: 1px solid #0B4C0C; color: #eee;}
+ #subheader a {color: #eee;}
+ #subheader a:hover {color: #fff;}
+ .readmore {background:#0B4C0C;}
+ #testimonials blockquote cite {color:#0B4C0C;}
+ .tags {background:#0B4C0C;}
+ ul.pagination li.current a {background: #0B4C0C;}
+.saymore {color:#0B4C0C;}
+.submit {background:#0B4C0C;} 
+dl.tabs dd.active { border-bottom: 3px solid #0B4C0C;}
+ul.accordion > li.active {border-top: 3px solid #0B4C0C;}
+div.alert-box.default { background-color: #0B4C0C;}
+.slide {	margin: 0;	padding: 0;	border-top: solid 4px #0B4C0C;}
+.btn-slide {	background:#0B4C0C url(../../images/plus.png) no-repeat;}
+.btn-slide.active { background: #0B4C0C url(../../images/minus.png) no-repeat;}
+#footer {border-top:#0B4C0C 4px solid;}
+.back-top a:hover{background-color: #0B4C0C;}
+.sf-shadow ul {border-top:2px solid #0B4C0C;}
+.panel {border-left:4px solid #0B4C0C;}
+.colorbackground {background:#0B4C0C;}
+#testimonials {border-left: solid 6px #0B4C0C;}
+.ei-title h2{background:#0B4C0C;}
